@@ -1,12 +1,12 @@
 {
   "name": "example.package",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": false,
   "description": "todo task example package",
   "dependencies": {
-    "google.api": "^1.0.0",
-    "google.protobuf": "^1.0.0",
-    "gogoproto": "^1.0.0",
-    "furo.type": "^1.0.0"
+    "furo.type": "^0.0.1",
+    "gogoproto": "^0.0.1",
+    "google.api": "^0.0.1",
+    "google.protobuf": "^0.0.1"
   }
 }
