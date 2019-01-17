@@ -1,0 +1,9 @@
+{
+  "name": "furo.type",
+  "version": "1.0.0",
+  "private": false,
+  "description": "furo type",
+  "dependencies": {
+    "google.api": "^1.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gogoproto",
+  "version": "1.0.0",
+  "private": false,
+  "description": "gogoproto",
+  "dependencies": {
+    "google.protobuf": "^1.0.0"
+  }
+}
